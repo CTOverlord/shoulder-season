@@ -7,7 +7,7 @@ image_alt: "Snow-covered mountain ridge in New Zealand"
 image_credit: "Photo by Stacie Ong on Unsplash"
 ---
 
-Welcome to the first edition of Check-In, a five-minute daily read on New Zealand's visitor economy. Here's what's moving this Wednesday.
+Welcome to the first edition of Check-In, a five-minute daily read on New Zealand's visitor economy. Here's what's moving this Thursday.
 
 ## May arrivals hold the recovery line
 
