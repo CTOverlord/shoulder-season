@@ -1,0 +1,13 @@
+title: Check-In
+tagline: Your daily check-in on New Zealand tourism
+description: An independent daily briefing on New Zealand's visitor economy. Announcements, data, trends and new products in one five-minute read, every weekday.
+url: "https://ctoverlord.github.io"
+baseurl: "/check-in"
+timezone: Pacific/Auckland
+permalink: /:year/:month/:day/:title/
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+exclude:
+  - README.md

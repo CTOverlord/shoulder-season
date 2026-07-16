@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en-NZ">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} · {{ site.title }}{% else %}{{ site.title }} · {{ site.tagline }}{% endif %}</title>
+  <meta name="description" content="{% if page.teaser %}{{ page.teaser }}{% else %}{{ site.description }}{% endif %}">
+  <link rel="icon" href="{{ '/assets/favicon.svg' | relative_url }}" type="image/svg+xml">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | relative_url }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;0,9..144,900;1,9..144,400&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+  {% seo %}
+</head>
+<body>
+  <header class="masthead">
+    <div class="wrap">
+      <a class="brand" href="{{ '/' | relative_url }}">
+        <span class="brand-mark">Check&#8209;In</span>
+        <span class="brand-tag">{{ site.tagline }}</span>
+      </a>
+      <nav class="nav">
+        <a href="{{ '/' | relative_url }}">Today</a>
+        <a href="{{ '/archive/' | relative_url }}">Archive</a>
+        <a href="{{ '/about/' | relative_url }}">About</a>
+        <a href="{{ '/feed.xml' | relative_url }}">RSS</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap">
+    {{ content }}
+  </main>
+
+  <footer class="footer">
+    <div class="wrap">
+      <p><strong>Check&#8209;In</strong> is an independent daily briefing on New Zealand's visitor economy.</p>
+      <p>&copy; {{ site.time | date: "%Y" }} Check&#8209;In &middot; <a href="{{ '/about/' | relative_url }}">About</a> &middot; <a href="{{ '/feed.xml' | relative_url }}">RSS</a></p>
+    </div>
+  </footer>
+</body>
+</html>
