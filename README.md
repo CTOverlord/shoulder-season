@@ -1,4 +1,4 @@
-# Check-In
+# The Shoulder Season
 
 An independent daily briefing on New Zealand's visitor economy.
 

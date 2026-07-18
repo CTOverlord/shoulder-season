@@ -58,7 +58,7 @@ a.plain:hover { color: var(--green-deep); }
   display: block;
   font-family: var(--serif);
   font-weight: 900;
-  font-size: 40px;
+  font-size: 34px;
   letter-spacing: -0.5px;
   line-height: 1;
 }
