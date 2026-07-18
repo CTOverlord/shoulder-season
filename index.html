@@ -7,6 +7,7 @@ layout: default
   <p class="post-date">{{ latest.date | date: "%A %-d %B %Y" }} &middot; Latest briefing</p>
   <h1 class="post-title"><a class="plain" href="{{ latest.url | relative_url }}">{{ latest.title }}</a></h1>
   {% if latest.teaser %}<p class="post-teaser">{{ latest.teaser }}</p>{% endif %}
+  <p class="post-byline">By the Shoulder Season desk</p>
   {% if latest.image %}
   <figure class="post-hero">
     <img src="{{ latest.image }}" alt="{{ latest.image_alt | default: latest.title }}">
