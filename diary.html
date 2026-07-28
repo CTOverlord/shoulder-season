@@ -1,0 +1,35 @@
+---
+layout: default
+title: Diary
+permalink: /diary/
+---
+{%- assign cutoff = site.time | date: '%s' | plus: 0 | minus: 86400 -%}
+{%- assign soon = site.time | date: '%s' | plus: 1209600 -%}
+{%- assign items = site.data.diary | sort: 'date' -%}
+<main class="wrap">
+<div class="page-head measure">
+<p class="kicker">The Diary</p>
+<h1>What's coming up in New Zealand tourism</h1>
+<p class="standfirst">Every dated item we're tracking: conferences, results, route launches, consultation deadlines, rule changes and events with visitor impact. Updated each weekday morning alongside the briefing.</p>
+</div>
+{%- assign currentmonth = '' -%}
+{%- assign shown = 0 -%}
+{%- for item in items -%}
+{%- assign ts = item.date | date: '%s' | plus: 0 -%}
+{%- if ts < cutoff -%}{%- continue -%}{%- endif -%}
+{%- assign shown = shown | plus: 1 -%}
+{%- assign m = item.date | date: '%B %Y' -%}
+{%- if m != currentmonth -%}
+{%- unless currentmonth == '' -%}</ul>{%- endunless -%}
+<h2 class="diary-month">{{ m }}</h2>
+<ul class="diary-list">
+{%- assign currentmonth = m -%}
+{%- endif -%}
+<li{% if ts <= soon %} class="soon"{% endif %}><span class="d-when">{% if item.display %}{{ item.display }}{% else %}{{ item.date | date: "%-d %B" }}{% endif %}</span><span class="d-what">{{ item.text }}{% if item.tag %}<span class="d-tag">{{ item.tag }}</span>{% endif %}</span></li>
+{%- endfor -%}
+{%- unless currentmonth == '' -%}</ul>{%- endunless -%}
+{%- if shown == 0 -%}
+<p class="diary-note">Nothing on the diary right now. Check back after tomorrow's briefing.</p>
+{%- endif -%}
+<p class="diary-note">The diary is maintained by hand from primary sources and updated each weekday. Dates move, so check the linked source in the relevant briefing before relying on one.</p>
+</main>

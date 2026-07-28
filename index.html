@@ -2,38 +2,50 @@
 layout: default
 ---
 {% assign latest = site.posts.first %}
-{% if latest %}
-<article class="post">
-  <p class="post-date">{{ latest.date | date: "%A %-d %B %Y" }} &middot; Latest briefing</p>
-  <h1 class="post-title"><a class="plain" href="{{ latest.url | relative_url }}">{{ latest.title }}</a></h1>
-  {% if latest.teaser %}<p class="post-teaser">{{ latest.teaser }}</p>{% endif %}
-  <p class="post-byline">By the Shoulder Season desk</p>
-  {% if latest.image %}
-  <figure class="post-hero">
-    <img src="{{ latest.image }}" alt="{{ latest.image_alt | default: latest.title }}">
-    {% if latest.image_credit %}<figcaption>{{ latest.image_credit }}</figcaption>{% endif %}
-  </figure>
-  {% endif %}
-  <div class="post-body">
-    {{ latest.content }}
-  </div>
-  <p class="post-endmark">That's today's briefing. The Shoulder Season is back every weekday morning.</p>
-</article>
 
-{% if site.posts.size > 1 %}
-<section class="previously">
-  <h2 class="section-label">Previously</h2>
-  <ul class="post-list">
-    {% for post in site.posts offset: 1 limit: 10 %}
-    <li>
-      <span class="pl-date">{{ post.date | date: "%-d %b %Y" }}</span>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    </li>
-    {% endfor %}
-  </ul>
-  <p><a href="{{ '/archive/' | relative_url }}">Full archive &rarr;</a></p>
+<section class="intro">
+  <div class="wrap">
+    <p class="kicker">The Daily Briefing</p>
+    <h1>What moved in New Zealand tourism today</h1>
+    <p>{{ site.description }}</p>
+  </div>
 </section>
-{% endif %}
+
+<main class="wrap">
+{% if latest %}
+  <a class="featured" href="{{ latest.url | relative_url }}">
+    {% if latest.image %}
+    <div class="f-img">
+      <img src="{{ latest.image }}" alt="{{ latest.image_alt | default: latest.title }}">
+    </div>
+    {% endif %}
+    <div class="f-body">
+      <p class="f-meta"><span class="pill">Today</span> {{ latest.date | date: "%A %-d %B %Y" }}</p>
+      <h2>{{ latest.title }}</h2>
+      {% if latest.teaser %}<p class="ex">{{ latest.teaser }}</p>{% endif %}
+      <span class="more">Read the briefing &rarr;</span>
+    </div>
+  </a>
+
+  {% if site.posts.size > 1 %}
+  <h2 class="sec-label">Earlier editions</h2>
+  <div class="grid">
+    {% for post in site.posts offset: 1 limit: 6 %}
+    <a class="card" href="{{ post.url | relative_url }}">
+      {% if post.image %}<img src="{{ post.image }}" alt="{{ post.image_alt | default: post.title }}">{% endif %}
+      <div class="c-in">
+        <p class="c-date">{{ post.date | date: "%A %-d %B %Y" }}</p>
+        <h3>{{ post.title }}</h3>
+        {% if post.teaser %}<p class="ex">{{ post.teaser }}</p>{% endif %}
+        <span class="more">Read more &rarr;</span>
+      </div>
+    </a>
+    {% endfor %}
+  </div>
+
+  <div class="loadmore"><a class="btn" href="{{ '/archive/' | relative_url }}">Full archive</a></div>
+  {% endif %}
 {% else %}
-<p>First briefing lands soon.</p>
+  <p>First briefing lands soon.</p>
 {% endif %}
+</main>

@@ -1,0 +1,102 @@
+# The Shoulder Season — forward diary
+#
+# One entry per dated item. Kept current by the daily briefing routine.
+#   date    : ISO date used for sorting and for dropping past items (required).
+#             For a range, use the START date.
+#   display : how the date reads on the page, e.g. "5-6 August". Optional;
+#             falls back to the date formatted as "5 August".
+#   text    : the item itself, plain English, no trailing full stop (required).
+#   tag     : optional short label, e.g. Aviation, Policy, Events, Results.
+
+- date: 2026-07-30
+  text: Early-bird registration closes for Tourism Summit Aotearoa
+  tag: Events
+
+- date: 2026-07-31
+  text: First of four free Wellington–Westport flight weekends
+  tag: Aviation
+
+- date: 2026-08-01
+  display: 1-31 August
+  text: Visa Wellington On a Plate runs across the month
+  tag: Events
+
+- date: 2026-08-01
+  text: Graeme Sharman starts as NZ Airports chief executive
+  tag: People
+
+- date: 2026-08-03
+  display: 3-23 August
+  text: Burger Wellington
+  tag: Events
+
+- date: 2026-08-05
+  display: 5-6 August
+  text: TECNZ conference, Te Pae Christchurch
+  tag: Events
+
+- date: 2026-08-07
+  text: Submissions close on the RCT Group zipline concession application
+  tag: Policy
+
+- date: 2026-08-08
+  text: Chelsea FC Women v an Auckland FC Women's Invitational XI, Eden Park
+  tag: Events
+
+- date: 2026-08-10
+  text: Ridgeburn's deadline to supply further information to the fast-track panel
+  tag: Policy
+
+- date: 2026-08-11
+  display: 11-12 August
+  text: AHICE Aotearoa, Te Pae Christchurch
+  tag: Events
+
+- date: 2026-08-21
+  display: 21-22 August
+  text: Beervana, Wellington
+  tag: Events
+
+- date: 2026-08-24
+  text: Group, tour escort and ADS FIT visa applications move to enhanced Immigration Online
+  tag: Policy
+
+- date: 2026-08-25
+  text: Tourism Holdings audited FY26 results
+  tag: Results
+
+- date: 2026-09-16
+  text: Permanent hoiho set-net closure and the four-capture limit take effect
+  tag: Conservation
+
+- date: 2026-10-23
+  text: Ali Adams finishes as ChristchurchNZ chief executive
+  tag: People
+
+- date: 2026-10-26
+  text: Air New Zealand becomes the first international airline into Western Sydney Airport, three return services a week from Auckland
+  tag: Aviation
+
+- date: 2026-10-28
+  text: Air New Zealand's first direct Christchurch–Singapore service departs
+  tag: Aviation
+
+- date: 2026-11-04
+  text: Tourism Summit Aotearoa and the NZ Tourism Awards, Te Pae Christchurch
+  tag: Events
+
+- date: 2026-11-19
+  text: Air Niugini's earliest planned resumption of Port Moresby–Auckland, after two deferrals
+  tag: Aviation
+
+- date: 2026-11-28
+  text: Air New Zealand's first direct Christchurch–Narita service departs
+  tag: Aviation
+
+- date: 2026-11-30
+  text: Air New Zealand's first direct Christchurch–Perth service departs
+  tag: Aviation
+
+- date: 2028-07-22
+  text: Total solar eclipse across the lower South Island, Milford to Dunedin
+  tag: Events
