@@ -31,6 +31,10 @@
   tag: Events
 
 - date: 2026-08-05
+  text: "Tickets on sale for Titanic: The Human Story, Auckland"
+  tag: Events
+
+- date: 2026-08-05
   display: 5-6 August
   text: TECNZ conference, Te Pae Christchurch
   tag: Events
@@ -64,6 +68,14 @@
 - date: 2026-08-25
   text: Tourism Holdings audited FY26 results
   tag: Results
+
+- date: 2026-08-28
+  text: "Titanic: The Human Story opens in the Smith and Caughey's building, Auckland"
+  tag: Events
+
+- date: 2026-08-31
+  text: Submissions close, 5pm, on the Wānaka freedom camping bylaw changes
+  tag: Policy
 
 - date: 2026-09-16
   text: Permanent hoiho set-net closure and the four-capture limit take effect
