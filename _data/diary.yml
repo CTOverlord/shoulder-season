@@ -17,6 +17,11 @@
   tag: Aviation
 
 - date: 2026-08-01
+  display: August
+  text: Mobilisation and early works begin on the Warkworth to Te Hana expressway
+  tag: Policy
+
+- date: 2026-08-01
   display: 1-31 August
   text: Visa Wellington On a Plate runs across the month
   tag: Events
@@ -108,6 +113,21 @@
 - date: 2026-11-30
   text: Air New Zealand's first direct Christchurch–Perth service departs
   tag: Aviation
+
+- date: 2027-06-29
+  display: 29-30 June 2027
+  text: The 30th MEETINGS, New Zealand International Convention Centre, Auckland
+  tag: Events
+
+- date: 2027-11-01
+  display: November 2027
+  text: Main construction starts on the Warkworth to Te Hana expressway
+  tag: Policy
+
+- date: 2028-07-01
+  display: Mid-2028
+  text: Employment Leave Act 2026 commences, two years after Royal assent
+  tag: Policy
 
 - date: 2028-07-22
   text: Total solar eclipse across the lower South Island, Milford to Dunedin
