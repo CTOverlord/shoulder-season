@@ -30,6 +30,11 @@
   text: Graeme Sharman starts as NZ Airports chief executive
   tag: People
 
+- date: 2026-08-01
+  display: August to mid-October
+  text: Bridge and boardwalk work on the Mangapurua section, Mountains to Sea Great Ride
+  tag: Conservation
+
 - date: 2026-08-03
   display: 3-23 August
   text: Burger Wellington
@@ -75,6 +80,10 @@
   tag: Results
 
 - date: 2026-08-28
+  text: July Monthly Regional Tourism Estimates, the first on the revised basis
+  tag: Results
+
+- date: 2026-08-28
   text: "Titanic: The Human Story opens in the Smith and Caughey's building, Auckland"
   tag: Events
 
@@ -102,9 +111,18 @@
   text: Tourism Summit Aotearoa and the NZ Tourism Awards, Te Pae Christchurch
   tag: Events
 
+- date: 2026-11-01
+  display: November-December
+  text: Bridge work moves to the Kaiwhakauka section, Mountains to Sea Great Ride
+  tag: Conservation
+
 - date: 2026-11-19
   text: Air Niugini's earliest planned resumption of Port Moresby–Auckland, after two deferrals
   tag: Aviation
+
+- date: 2026-11-26
+  text: National Wild Goat Hunting Competition closes
+  tag: Conservation
 
 - date: 2026-11-28
   text: Air New Zealand's first direct Christchurch–Narita service departs
