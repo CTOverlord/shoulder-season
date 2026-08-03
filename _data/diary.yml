@@ -72,6 +72,10 @@
   tag: Events
 
 - date: 2026-08-24
+  text: Last of the free Wellington–Westport flight weekends
+  tag: Aviation
+
+- date: 2026-08-24
   text: Group, tour escort and ADS FIT visa applications move to enhanced Immigration Online
   tag: Policy
 
@@ -94,6 +98,19 @@
 - date: 2026-09-16
   text: Permanent hoiho set-net closure and the four-capture limit take effect
   tag: Conservation
+
+- date: 2026-09-18
+  text: TrailLite launches the Roadcraft, its first New Zealand-made and branded motorhome
+  tag: Events
+
+- date: 2026-10-05
+  text: James Stevenson-Wallace starts as Queenstown Lakes District Council chief executive
+  tag: People
+
+- date: 2026-10-31
+  display: October to January
+  text: Queenstown's mayoral congestion taskforce due to report, three to six months from 31 July
+  tag: Policy
 
 - date: 2026-10-23
   text: Ali Adams finishes as ChristchurchNZ chief executive
@@ -131,6 +148,11 @@
 - date: 2026-11-30
   text: Air New Zealand's first direct Christchurch–Perth service departs
   tag: Aviation
+
+- date: 2027-05-11
+  display: 11-13 May 2027
+  text: TRENZ, Te Pae Christchurch, the fourth time the show has run in the city
+  tag: Events
 
 - date: 2027-06-29
   display: 29-30 June 2027
