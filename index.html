@@ -20,10 +20,10 @@ layout: default
     </div>
     {% endif %}
     <div class="f-body">
-      <p class="f-meta"><span class="pill">Today</span> {{ latest.date | date: "%A %-d %B %Y" }}</p>
+      <p class="f-meta"><span class="pill">{{ latest.kicker | default: "Today" }}</span> {{ latest.date | date: "%A %-d %B %Y" }}</p>
       <h2>{{ latest.title }}</h2>
       {% if latest.teaser %}<p class="ex">{{ latest.teaser }}</p>{% endif %}
-      <span class="more">Read the briefing &rarr;</span>
+      <span class="more">{{ latest.cta | default: "Read the briefing" }} &rarr;</span>
     </div>
   </a>
 
@@ -34,7 +34,7 @@ layout: default
     <a class="card" href="{{ post.url | relative_url }}">
       {% if post.image %}<img src="{{ post.image }}" alt="{{ post.image_alt | default: post.title }}">{% endif %}
       <div class="c-in">
-        <p class="c-date">{{ post.date | date: "%A %-d %B %Y" }}</p>
+        <p class="c-date">{% if post.kicker %}{{ post.kicker }} &middot; {% endif %}{{ post.date | date: "%A %-d %B %Y" }}</p>
         <h3>{{ post.title }}</h3>
         {% if post.teaser %}<p class="ex">{{ post.teaser }}</p>{% endif %}
         <span class="more">Read more &rarr;</span>
