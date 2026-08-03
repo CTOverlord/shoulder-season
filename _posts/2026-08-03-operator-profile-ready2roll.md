@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2026-08-03 16:00:00 +1200
+date: 2026-08-03 11:00:00 +1200
 kicker: "Operator profile"
 cta: "Read the profile"
 title: "Ready2Roll went in through the airport door, and that turns out to be the interesting part"
