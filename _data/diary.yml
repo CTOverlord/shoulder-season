@@ -46,7 +46,21 @@
 
 - date: 2026-08-05
   display: 5-6 August
-  text: TECNZ conference, Te Pae Christchurch
+  text: TECNZ conference and Tourism Export Awards, Te Pae Christchurch
+  tag: Events
+
+- date: 2026-08-05
+  display: August
+  text: Community engagement opens on the Goat Island parking pricing structure
+  tag: Policy
+
+- date: 2026-08-05
+  display: August
+  text: Australia's Department of Finance review of Corporate Travel Management due
+  tag: Policy
+
+- date: 2026-08-13
+  text: New Zealand Cruise Association conference, Shed 10, Queens Wharf, Auckland
   tag: Events
 
 - date: 2026-08-07
@@ -95,6 +109,11 @@
   text: Submissions close, 5pm, on the Wānaka freedom camping bylaw changes
   tag: Policy
 
+- date: 2026-09-30
+  display: September
+  text: Feedback closes on the Goat Island parking pricing structure
+  tag: Policy
+
 - date: 2026-09-16
   text: Permanent hoiho set-net closure and the four-capture limit take effect
   tag: Conservation
@@ -102,6 +121,16 @@
 - date: 2026-09-18
   text: TrailLite launches the Roadcraft, its first New Zealand-made and branded motorhome
   tag: Events
+
+- date: 2026-10-01
+  display: October
+  text: Final parking prices released for Te Hāwere-a-Maki / Goat Island
+  tag: Policy
+
+- date: 2026-10-01
+  display: October
+  text: Recruitment advertised for Nelson's consolidated port and airport board
+  tag: People
 
 - date: 2026-10-05
   text: James Stevenson-Wallace starts as Queenstown Lakes District Council chief executive
@@ -148,6 +177,15 @@
 - date: 2026-11-30
   text: Air New Zealand's first direct Christchurch–Perth service departs
   tag: Aviation
+
+- date: 2026-12-01
+  display: December
+  text: Paid parking due to start at Te Hāwere-a-Maki / Goat Island
+  tag: Conservation
+
+- date: 2027-01-01
+  text: Nelson's single governance board for Port Nelson and Nelson Airport takes effect
+  tag: Policy
 
 - date: 2027-05-11
   display: 11-13 May 2027
