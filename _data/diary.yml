@@ -114,6 +114,15 @@
   text: Feedback closes on the Goat Island parking pricing structure
   tag: Policy
 
+- date: 2026-09-13
+  text: Auckland's City Rail Link opens to passengers, with new stations at Te Waihorotiu and Karanga-a-Hape
+  tag: Policy
+
+- date: 2026-09-01
+  display: September
+  text: Avani Queenstown opens in the former Oaks Shores Resort on Lake Wakatipu
+  tag: Events
+
 - date: 2026-09-16
   text: Permanent hoiho set-net closure and the four-capture limit take effect
   tag: Conservation
@@ -186,6 +195,10 @@
 - date: 2027-01-01
   text: Nelson's single governance board for Port Nelson and Nelson Airport takes effect
   tag: Policy
+
+- date: 2027-02-02
+  text: Jetstar's new carry-on model takes effect, with the overhead locker becoming a paid extra
+  tag: Aviation
 
 - date: 2027-05-11
   display: 11-13 May 2027

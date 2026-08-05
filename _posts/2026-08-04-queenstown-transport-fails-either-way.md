@@ -93,5 +93,3 @@ The transferable lesson for regions without one is that both of these were manuf
 - **28 November** – Air New Zealand's first direct Christchurch–Narita service departs
 - **30 November** – Air New Zealand's first direct Christchurch–Perth service departs
 - **11-13 May 2027** – TRENZ, Te Pae Christchurch
-</content>
-</invoke>
