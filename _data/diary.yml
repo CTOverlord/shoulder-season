@@ -75,6 +75,10 @@
   text: Ridgeburn's deadline to supply further information to the fast-track panel
   tag: Policy
 
+- date: 2026-08-10
+  text: Submissions close on the proposed National Conservation Policy Statement
+  tag: Policy
+
 - date: 2026-08-11
   display: 11-12 August
   text: AHICE Aotearoa, Te Pae Christchurch
@@ -95,6 +99,10 @@
 
 - date: 2026-08-25
   text: Tourism Holdings audited FY26 results
+  tag: Results
+
+- date: 2026-08-28
+  text: Air New Zealand FY26 annual results, before NZX trading opens
   tag: Results
 
 - date: 2026-08-28
@@ -169,6 +177,24 @@
 - date: 2026-10-28
   text: Air New Zealand's first direct Christchurch–Singapore service departs
   tag: Aviation
+
+- date: 2026-10-01
+  display: October
+  text: Designs due to be finalised for the Porirua Adventure Park, with construction to start in November or December
+  tag: Events
+
+- date: 2026-11-11
+  text: The Environment Committee reports back on the Conservation Amendment Bill
+  tag: Policy
+
+- date: 2026-12-31
+  text: Extended deadline on the Porirua Adventure Park agreement to lease, pending Overseas Investment Office clearance
+  tag: Policy
+
+- date: 2028-02-01
+  display: February 2028
+  text: Porirua Adventure Park due to open with a gondola, summit restaurant, dual zipline and surf simulator
+  tag: Events
 
 - date: 2026-11-04
   text: Tourism Summit Aotearoa and the NZ Tourism Awards, Te Pae Christchurch
