@@ -238,9 +238,24 @@
   text: Jetstar's new carry-on model takes effect, with the overhead locker becoming a paid extra
   tag: Aviation
 
+- date: 2026-11-01
+  display: After November
+  text: The Government's decision on a regional accommodation levy, deferred until after the general election
+  tag: Policy
+
 - date: 2027-05-11
   display: 11-13 May 2027
   text: TRENZ, Te Pae Christchurch, the fourth time the show has run in the city
+  tag: Events
+
+- date: 2027-01-01
+  display: 2027
+  text: Accor's two new-build Mantra hotels open in Hamilton, 52 rooms on Pembroke Street and 40 on Karewa Place
+  tag: Events
+
+- date: 2027-01-02
+  display: 2027
+  text: The Sheraton opens in Christchurch in the converted Noah's Hotel building
   tag: Events
 
 - date: 2027-06-29
