@@ -134,6 +134,27 @@
   text: Auckland's City Rail Link opens to passengers, with new stations at Te Waihorotiu and Karanga-a-Hape
   tag: Policy
 
+- date: 2026-09-15
+  display: Mid-September
+  text: Tourism New Zealand hosts an online AI collective forum for operators
+  tag: Events
+
+- date: 2026-09-24
+  text: The House rises ahead of the general election
+  tag: Policy
+
+- date: 2026-10-01
+  text: Parliament is dissolved, with writ day on 4 October and nominations closing at noon on 8 October
+  tag: Policy
+
+- date: 2026-10-26
+  text: Voting opens for the general election, 12 days before election day
+  tag: Policy
+
+- date: 2026-11-07
+  text: General election
+  tag: Policy
+
 - date: 2026-09-01
   display: September
   text: Avani Queenstown opens in the former Oaks Shores Resort on Lake Wakatipu
@@ -276,3 +297,8 @@
 - date: 2028-07-22
   text: Total solar eclipse across the lower South Island, Milford to Dunedin
   tag: Events
+
+- date: 2029-01-01
+  display: 2029
+  text: The rail-enabled ferries Kupe and Cook enter service on Cook Strait, operated by KiwiRail
+  tag: Policy
