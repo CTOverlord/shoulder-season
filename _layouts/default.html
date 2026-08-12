@@ -13,6 +13,10 @@
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500;600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
   {% seo %}
+  {% if site.goatcounter and site.goatcounter != "" %}
+  <script data-goatcounter="https://{{ site.goatcounter }}.goatcounter.com/count"
+          async src="//gc.zgo.at/count.js"></script>
+  {% endif %}
 </head>
 <body>
   <header class="masthead">
