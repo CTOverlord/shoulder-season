@@ -95,5 +95,3 @@ The operational point is about who does the briefing. A great deal of New Zealan
 - **7 November** General election
 - **11 November** The Environment Committee reports back on the Conservation Amendment Bill
 - **6 December** Coral Adventurer opens Gisborne's cruise season
-</content>
-</invoke>
