@@ -101,6 +101,11 @@
   text: Tourism Holdings audited FY26 results
   tag: Results
 
+- date: 2026-08-25
+  display: Late August
+  text: SkyCity's two-week staff consultation closes on a proposal to cut about 200 roles
+  tag: People
+
 - date: 2026-08-28
   text: Air New Zealand FY26 annual results, before NZX trading opens
   tag: Results
@@ -246,6 +251,10 @@
   display: December
   text: Paid parking due to start at Te Hāwere-a-Maki / Goat Island
   tag: Conservation
+
+- date: 2026-12-06
+  text: The expedition ship Coral Adventurer opens Gisborne's cruise season, the first of 12 confirmed calls
+  tag: Events
 
 - date: 2026-12-20
   text: The Tourism New Zealand and Webjet fare sale travel window closes
