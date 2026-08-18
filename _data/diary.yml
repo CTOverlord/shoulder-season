@@ -298,9 +298,8 @@
   text: Main construction starts on the Warkworth to Te Hana expressway
   tag: Policy
 
-- date: 2028-07-01
-  display: Mid-2028
-  text: Employment Leave Act 2026 commences, two years after Royal assent
+- date: 2028-08-06
+  text: The Employment Leave Act 2026 replaces the Holidays Act 2003, two years after Royal assent
   tag: Policy
 
 - date: 2028-07-22
@@ -362,4 +361,17 @@
 - date: 2031-01-01
   display: "2031"
   text: Lyttelton's Te Awaparahi Bay deepwater wharf and container terminal due to be complete
+  tag: Events
+
+- date: 2026-08-29
+  text: Crown Princess opens Auckland's 2026/27 cruise season at Queens Wharf
+  tag: Events
+
+- date: 2026-11-01
+  display: November
+  text: General sale opens for State of Origin tickets at Eden Park
+  tag: Events
+
+- date: 2027-06-16
+  text: State of Origin game two, Eden Park, the first played outside Australia, with the Warriors at the same ground on 13 June
   tag: Events
