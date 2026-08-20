@@ -379,3 +379,23 @@
 - date: 2026-08-20
   text: Auckland Airport FY26 annual result, with an analyst and media webcast at 11am
   tag: Results
+
+- date: 2026-10-01
+  display: October
+  text: SkyCity's annual shareholders meeting, where it will update the market on FY27 after giving no guidance with its FY26 result
+  tag: Results
+
+- date: 2027-02-01
+  display: February 2027
+  text: Sauvignon Blanc New Zealand 2027, Marlborough, the international conference Wine Marlborough is backing in place of its shelved festival
+  tag: Events
+
+- date: 2027-12-01
+  display: Summer 2027
+  text: Queenstown Airport's $65 million airfield programme, a Code C heavy taxiway and a full overlay of the main runway, due to be complete
+  tag: Aviation
+
+- date: 2028-02-01
+  display: To early 2028
+  text: The most intensive stage of Auckland Airport's international terminal build, with disruption expected in check-in
+  tag: Aviation
