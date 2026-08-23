@@ -268,11 +268,6 @@
   text: Jetstar's new carry-on model takes effect, with the overhead locker becoming a paid extra
   tag: Aviation
 
-- date: 2026-11-01
-  display: After November
-  text: The Government's decision on a regional accommodation levy, deferred until after the general election
-  tag: Policy
-
 - date: 2027-05-11
   display: 11-13 May 2027
   text: TRENZ, Te Pae Christchurch, the fourth time the show has run in the city
@@ -399,3 +394,12 @@
   display: To early 2028
   text: The most intensive stage of Auckland Airport's international terminal build, with disruption expected in check-in
   tag: Aviation
+
+- date: 2026-10-07
+  text: Last day to submit draft group, tour escort and ADS FIT visitor visa applications started in the old Immigration Online system, with remaining drafts deleted on 8 October
+  tag: Policy
+
+- date: 2028-01-01
+  display: "2028"
+  text: Distinction Hotels' 145-room hotel and conference centre opens in Philip Laing House, Princes Street, Dunedin
+  tag: Events
