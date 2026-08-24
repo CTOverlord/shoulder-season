@@ -403,3 +403,13 @@
   display: "2028"
   text: Distinction Hotels' 145-room hotel and conference centre opens in Philip Laing House, Princes Street, Dunedin
   tag: Events
+
+- date: 2027-03-01
+  display: March-April 2027
+  text: ORC's 2027-30 Long-Term Plan consultation, carrying the Wānaka and Upper Clutha bus proposal and its 49 percent targeted rate share
+  tag: Policy
+
+- date: 2028-01-01
+  display: Early 2028
+  text: The Wānaka and Upper Clutha trial bus service could begin, if the targeted rate and NZTA funding both hold
+  tag: Policy
