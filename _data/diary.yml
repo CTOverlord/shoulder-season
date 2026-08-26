@@ -427,3 +427,23 @@
   display: Week of 31 August
   text: Originair meets ministers on changing the criteria for regional development funding
   tag: Aviation
+
+- date: 2026-10-01
+  display: October
+  text: Christchurch Airport's annual meeting, after which its $27.4 million final dividend is paid
+  tag: Results
+
+- date: 2027-01-01
+  display: "2027"
+  text: The year the signed Auckland Regional Deal commits the government to consider accommodation levies
+  tag: Policy
+
+- date: 2027-06-30
+  display: Mid-2027
+  text: Stage 1A of Rotorua Airport's business park due to be complete, if Bay of Plenty Regional Council grants the earthworks consent
+  tag: Events
+
+- date: 2027-08-26
+  display: To August 2027
+  text: Feasibility, consenting, engineering and community engagement on Hawke's Bay Airport's 12-17MW solar farm
+  tag: Policy
