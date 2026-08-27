@@ -411,7 +411,7 @@
 
 - date: 2028-01-01
   display: Early 2028
-  text: The Wānaka and Upper Clutha trial bus service could begin, if the targeted rate and NZTA funding both hold
+  text: The Central Lakes trial bus service could begin, two routes and four daily return trips seven days a week, if the targeted rate and NZTA funding both hold
   tag: Policy
 
 - date: 2026-08-28
@@ -446,4 +446,23 @@
 - date: 2027-08-26
   display: To August 2027
   text: Feasibility, consenting, engineering and community engagement on Hawke's Bay Airport's 12-17MW solar farm
+  tag: Policy
+
+- date: 2026-08-31
+  text: Cabinet decision expected on essential air route funding for Originair's Wellington to Westport service
+  tag: Aviation
+
+- date: 2026-11-01
+  display: November
+  text: Air New Zealand's Boeing 787 retrofit programme due to be finished, 14 aircraft in total
+  tag: Aviation
+
+- date: 2026-11-30
+  display: Later in 2026
+  text: Air New Zealand investor day on strategy and medium-term financial objectives
+  tag: Results
+
+- date: 2027-01-01
+  display: Early 2027
+  text: The Central Lakes two-route bus network goes into the Otago Regional Council's draft 2027-30 Long-Term Plan
   tag: Policy
