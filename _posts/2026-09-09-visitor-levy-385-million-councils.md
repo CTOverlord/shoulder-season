@@ -55,7 +55,7 @@ The caution is in the timing. Southern Crossings director Sarah Farag says overs
 
 **Source:** [NZ Herald](https://www.nzherald.co.nz/nz/michelins-first-economic-effects-restaurants-add-jobs-and-trading-days/YP6VCZ6TUVDHNO6JL47BWFP4QE/)
 
-## Mount Cheeseman called its season on 3 September, three days before Cardrona extended its own
+## Mount Cheeseman called its season on 3 September, in the same week Cardrona bought itself another one
 
 The Canterbury club field closed for 2026 after warm northwesterlies and rain took the lower mountain apart. In its own mountain report the club said it no longer had "a learners area, lift load area or lower T Bar line and no snow to rebuild it with", and that a substantial snowfall would be needed to reopen rather than merely a good one.
 
@@ -94,3 +94,5 @@ The colony is co-managed by Te Poari a Pukekura with Te Rūnanga o Ōtākou, the
 - **8 October:** The old visitor visa forms close and remaining drafts are deleted
 - **7 November:** General election
 - **1 July 2027:** The date National's council funding, and ACT's Local Tourism Dividend, would both start
+
+*Corrected 9 September: an earlier version of the Mount Cheeseman heading said the club closed three days before Cardrona extended its season. Both decisions were reported in the same week.*
