@@ -136,7 +136,11 @@
   tag: Policy
 
 - date: 2026-09-13
-  text: Auckland's City Rail Link opens to passengers, with new stations at Te Waihorotiu and Karanga-a-Hape
+  text: Auckland's City Rail Link opens to passengers, with new stations at Te Waihorotiu and Karanga-a-Hape, on a transitional timetable of six trains an hour at peak rather than eight
+  tag: Policy
+
+- date: 2026-09-14
+  text: The first weekday City Rail Link timetable runs, with adjusted bus connections across east, south, west and central Auckland
   tag: Policy
 
 - date: 2026-09-15
