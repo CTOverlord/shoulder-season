@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2026-09-18 11:00:00 +1200
+date: 2026-09-18 09:45:00 +1200
 kicker: "Operator profile"
 cta: "Read the profile"
 title: "Zealandia took 8.9 percent fewer visitors last year and made 17 percent more from each one"
