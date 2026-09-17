@@ -584,3 +584,16 @@
   display: 9-10 January 2027
   text: Race of Champions, the event's first New Zealand edition, on a temporary track inside Hnry Stadium, Wellington
   tag: Events
+
+- date: 2026-10-28
+  text: The Reserve Bank's Monetary Policy Review and OCR decision, published at 2pm, after September's rise to 2.75 percent
+  tag: Policy
+
+- date: 2026-12-09
+  text: The Reserve Bank's Monetary Policy Statement and OCR decision, with a full new forecast track
+  tag: Policy
+
+- date: 2027-01-01
+  display: 2027
+  text: The WOW Exhibition premieres in Wellington with $880,000 of Major Events Fund support, alongside the first Global Wearable Art Summit, before touring internationally
+  tag: Events
