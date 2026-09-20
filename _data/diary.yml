@@ -507,7 +507,7 @@
 
 - date: 2026-11-30
   display: End of November
-  text: Wairere Falls Track, Kaimai Mamaku Conservation Park, due to reopen ahead of summer
+  text: Wairere Falls Track, Kaimai Mamaku Conservation Park, due to reopen ahead of summer, a date DOC says it can no longer promise if visitors keep entering the worksite
   tag: Conservation
 
 - date: 2026-10-18
@@ -596,4 +596,22 @@
 - date: 2027-01-01
   display: 2027
   text: The WOW Exhibition premieres in Wellington with $880,000 of Major Events Fund support, alongside the first Global Wearable Art Summit, before touring internationally
+  tag: Events
+
+- date: 2026-09-28
+  text: Karakia at Rotorua Museum as the completed building moves into fit-out and exhibition development
+  tag: Events
+
+- date: 2026-09-28
+  display: Week of 28 September
+  text: NZTA expects to be able to say when SH6 between Makarora and Hāwea returns to 24-7 access
+  tag: Policy
+
+- date: 2026-10-25
+  text: Air New Zealand's expanded Hobart to Auckland season starts, up to 170 flights and 33,000 seats to the end of April, 28 percent more seats than last season
+  tag: Aviation
+
+- date: 2028-01-01
+  display: "2028"
+  text: Rotorua Museum due to reopen to the public, with $7m to $8m still to be found for exhibitions
   tag: Events
