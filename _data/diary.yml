@@ -624,3 +624,13 @@
   display: "2029"
   text: Auckland Airport's baggage programme due to be complete, with more than 10km of conveyor replaced or added and a 3,000-bag automated early-bag store
   tag: Aviation
+
+- date: 2026-09-28
+  display: 28 September to 9 October
+  text: SH11 through Paihia under daytime stop-go for drainage works, 7am to 6pm, up to 10 minutes' delay
+  tag: Policy
+
+- date: 2026-10-11
+  display: 11-23 October
+  text: SH11 through Paihia closed overnight, 8pm to 6am except Friday and Saturday nights, with a detour of up to 50 minutes via Kawakawa and Pakaraka
+  tag: Policy
