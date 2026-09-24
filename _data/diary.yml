@@ -643,3 +643,25 @@
 - date: 2026-10-30
   text: Proposals close at 5pm for the five-year Tiritiri Matangi scheduled ferry licence
   tag: Conservation
+
+- date: 2026-09-27
+  text: Daylight saving begins, clocks forward an hour at 2am
+  tag: Events
+
+- date: 2026-10-12
+  text: Community drop-in on the proposed $20m sale of Napier's Kennedy Park Resort to Hampshire (NZ), at the resort, 12pm to 2pm
+  tag: Policy
+
+- date: 2026-10-23
+  text: Feedback closes on the proposed sale of Kennedy Park Resort, Napier
+  tag: Policy
+
+- date: 2026-10-01
+  display: October to December
+  text: Drifter Wellington due to open in the former Te Aro post office, 287 beds
+  tag: Events
+
+- date: 2027-04-01
+  display: April to June 2027
+  text: Drifter Auckland due to open, 414 beds in 80 rooms
+  tag: Events
