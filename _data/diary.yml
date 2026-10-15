@@ -715,8 +715,8 @@
   text: Implementation plan for the Otago Central Lakes Deal due, within six months of the 6 October 2026 signing
   tag: Policy
 
-- date: 2026-10-22
-  text: Waitākere Ranges Local Board votes on whether Piha Beach Campground closes for good
+- date: 2026-10-19
+  text: Piha Domain campground reopens for overnight camping for the 2026-27 summer, after the Waitākere Ranges Local Board voted on 15 October to overrule council staff
   tag: Policy
 
 - date: 2026-11-04
@@ -744,3 +744,12 @@
 - date: 2027-04-07
   text: Air New Zealand's codeshare with Qantas ends; Air NZ and Virgin Australia have applied to expand their own codeshare in its place
   tag: Aviation
+
+- date: 2026-10-24
+  display: 24-26 October
+  text: Buses replace all Metlink trains in the Wellington region over Labour Weekend for KiwiRail upgrades
+  tag: Events
+
+- date: 2026-11-14
+  text: Contractors start on the Hahei Beach Short Walk reroute to Mautohe Cathedral Cove
+  tag: Conservation
