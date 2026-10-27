@@ -801,3 +801,12 @@
   display: December
   text: Earliest possible opening for a 32-metre wheel on Auckland's Quay Street waterfront, subject to consents
   tag: Events
+
+- date: 2026-11-22
+  text: Three Singapore services in one day at Christchurch Airport, 1,560 seats on the route
+  tag: Aviation
+
+- date: 2027-06-30
+  display: Mid-2027
+  text: Feasibility work due on amalgamating Hospitality New Zealand and the Restaurant Association into one national body
+  tag: Policy
