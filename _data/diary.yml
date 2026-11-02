@@ -847,3 +847,13 @@
   display: Late 2027
   text: Restored Mataura Railway Station due to reopen, with the Southerner expected to call
   tag: Events
+
+- date: 2026-12-01
+  display: December
+  text: Mackenzie District Council report on exempting local residents from user-pays toilet charges
+  tag: Policy
+
+- date: 2027-02-06
+  display: Waitangi weekend 2027
+  text: User-pays charges ($1.50 an entry via the Penny app) due at 33 Mackenzie District toilet facilities, starting with Fairlie, Burkes Pass, Tekapo, Pukaki and Twizel
+  tag: Policy
