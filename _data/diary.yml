@@ -857,3 +857,21 @@
   display: Waitangi weekend 2027
   text: User-pays charges ($1.50 an entry via the Penny app) due at 33 Mackenzie District toilet facilities, starting with Fairlie, Burkes Pass, Tekapo, Pukaki and Twizel
   tag: Policy
+
+- date: 2026-11-09
+  text: Isaacs Construction moves on site for Port Marlborough's Havelock channel and marina redevelopment ($9.9m Regional Infrastructure Fund loan)
+  tag: Policy
+
+- date: 2026-11-20
+  display: Until 20 November
+  text: TranzAlpine runs Christchurch to Arthur's Pass only, with a road connection to Greymouth, while the Midland Line is repaired after the Ōtira Tunnel derailment
+  tag: Events
+
+- date: 2026-11-25
+  text: Havelock marina redevelopment community drop-in session
+  tag: Events
+
+- date: 2027-12-01
+  display: End of 2027
+  text: Havelock channel reinstatement and marina redevelopment due for completion
+  tag: Policy
