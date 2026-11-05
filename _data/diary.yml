@@ -875,3 +875,18 @@
   display: End of 2027
   text: Havelock channel reinstatement and marina redevelopment due for completion
   tag: Policy
+
+- date: 2027-01-15
+  display: Early 2027
+  text: MBIE resumes the Tourism Electronic Card Transactions series while the Monthly Regional Tourism Estimates are paused for a methodology review
+  tag: Results
+
+- date: 2027-05-07
+  display: 7-9 May 2027
+  text: Supercars ITM New Zealand Double Header, round one, Ruapuna Raceway, Christchurch
+  tag: Events
+
+- date: 2027-05-14
+  display: 14-16 May 2027
+  text: Supercars ITM New Zealand Double Header, round two, Taupō International Motorsport Park
+  tag: Events
