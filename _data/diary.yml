@@ -235,8 +235,8 @@
   text: Bridge work moves to the Kaiwhakauka section, Mountains to Sea Great Ride
   tag: Conservation
 
-- date: 2026-11-19
-  text: Air Niugini's earliest planned resumption of Port Moresby–Auckland, after two deferrals
+- date: 2026-11-17
+  text: Air Niugini's first Port Moresby to Auckland service since 1998, three a week on 737-800s (licence granted 9 November)
   tag: Aviation
 
 - date: 2026-11-26
@@ -894,3 +894,7 @@
 - date: 2026-11-27
   text: Official general election result due from the Electoral Commission, after the special votes are counted
   tag: Policy
+
+- date: 2027-06-30
+  text: Tourism Holdings' lease on the Waitomo Glowworm Cave expires; the cave's owner is the Ruapuha Uekaha Hapū Trust
+  tag: Results
