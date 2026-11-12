@@ -918,3 +918,16 @@
 - date: 2027-03-23
   text: Starlux Airlines' filed start for Taipei-Sydney-Auckland, four a week, daily from 1 May 2027 (A330-900neo)
   tag: Aviation
+
+- date: 2026-11-27
+  text: First of a series of 10-hour strikes by FENZ career firefighters (Professional Firefighters' Union); NZDF crews may cover up to 20 priority stations
+  tag: Policy
+
+- date: 2026-11-30
+  text: Kāpiti Coast Airport set to cease operations ahead of a conditional sale; Sounds Air reported to move its service to Wellington
+  tag: Aviation
+
+- date: 2027-09-01
+  display: September 2027
+  text: Air New Zealand's Auckland-Houston goes daily on the 787-9; Auckland-Taipei rises from three to five a week from late September
+  tag: Aviation
