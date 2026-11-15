@@ -931,3 +931,17 @@
   display: September 2027
   text: Air New Zealand's Auckland-Houston goes daily on the 787-9; Auckland-Taipei rises from three to five a week from late September
   tag: Aviation
+
+- date: 2026-12-01
+  display: December 2026
+  text: DOC paid parking starts at eight more sites (Tasman Glacier, Kepler control gates, Kura Tāwhiti/Castle Hill, Blue Pools, Routeburn Divide, Deepwater Basin, Devils Punchbowl, Goat Island); permits and exemptions open online
+  tag: Conservation
+
+- date: 2026-12-31
+  text: Applications close for ChristchurchNZ's Emerging Global Leaders Grant (business events)
+  tag: Events
+
+- date: 2027-06-01
+  display: June 2027
+  text: Air New Zealand starts Hamilton-Queenstown, three return A320 flights a week (Mon, Thu, Sat), year-round
+  tag: Aviation
