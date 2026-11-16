@@ -899,13 +899,14 @@
   text: Tourism Holdings' lease on the Waitomo Glowworm Cave expires; the cave's owner is the Ruapuha Uekaha Hapū Trust
   tag: Results
 
-- date: 2026-11-24
-  text: Auckland Airport's emergency services team (E tū, 69 staff) notified 24-hour strike from 6am; airport warns flights may be cancelled or diverted
+- date: 2026-11-17
+  display: Week of 17 November
+  text: E tū's Auckland Airport emergency services members vote on an improved offer (the 24 and 27 November strike notices were withdrawn on 13 November)
   tag: Aviation
 
-- date: 2026-11-27
-  text: Second notified 24-hour strike by Auckland Airport's emergency services team, from 6am
-  tag: Aviation
+- date: 2026-12-01
+  text: Nelson's summer visitor information pop-up opens at Millers Acre, run by Hiwa; seven days a week from 18 December to 8 February
+  tag: Events
 
 - date: 2026-11-22
   text: World Triathlon Cup Tauranga, Mount Maunganui, first of three years leading to the 2028 World Triathlon Championships
