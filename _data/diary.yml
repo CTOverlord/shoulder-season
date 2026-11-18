@@ -917,7 +917,7 @@
   tag: People
 
 - date: 2027-03-23
-  text: Starlux Airlines' filed start for Taipei-Sydney-Auckland, four a week, daily from 1 May 2027 (A330-900neo)
+  text: Starlux Airlines' first Taipei-Sydney-Auckland flight (confirmed by the airline 17 November), four a week, daily from 1 May 2027 (A330-900)
   tag: Aviation
 
 - date: 2026-11-27
@@ -950,3 +950,12 @@
 - date: 2026-12-18
   text: Stats NZ selected price indexes for November (domestic airfares, accommodation, fuel)
   tag: Results
+
+- date: 2026-11-24
+  text: Commerce Commission and AI Forum free webinar on the Commission's AI guidance for businesses, 12pm
+  tag: Policy
+
+- date: 2026-12-24
+  display: By Christmas
+  text: SH35 Hikuwai Bridge works due to finish and the Bailey bridge removed; one-way traffic in the meantime
+  tag: Policy
