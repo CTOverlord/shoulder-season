@@ -892,7 +892,7 @@
   tag: Events
 
 - date: 2026-11-27
-  text: Official general election result due from the Electoral Commission, after the special votes are counted
+  text: Official general election result due from the Electoral Commission at 2pm, after the special votes are counted
   tag: Policy
 
 - date: 2027-06-30
@@ -1014,4 +1014,8 @@
 - date: 2027-02-01
   display: February 2027
   text: Molesworth and Branch-Leatham wilding conifer spraying due to finish
+  tag: Conservation
+
+- date: 2026-11-26
+  text: Fishery officers can issue $250 infringement notices under the Auckland and Coromandel sea life collecting ban
   tag: Conservation
